@@ -1,0 +1,10 @@
+{"L":"FATAL","timestamp":"2025-07-15T21:03:53.318+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"INFO","timestamp":"2025-07-15T21:06:48.378+0700","C":"middleware/logger.go:26","M":"HTTP Request","method":"GET","path":"/api/v1/users","duration":"1.456282ms"}
+{"L":"INFO","timestamp":"2025-07-15T21:07:03.757+0700","C":"middleware/logger.go:26","M":"HTTP Request","method":"GET","path":"/api/v1/users","duration":"996.568µs"}
+{"L":"FATAL","timestamp":"2025-07-15T21:19:10.175+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-15T21:19:36.252+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"INFO","timestamp":"2025-07-15T21:20:35.446+0700","C":"middleware/logger.go:26","M":"HTTP Request","method":"GET","path":"/api/v1/users","duration":"2.712337ms"}
+{"L":"FATAL","timestamp":"2025-07-15T21:53:06.093+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-15T21:58:51.129+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-15T21:59:09.235+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-15T22:00:55.282+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}

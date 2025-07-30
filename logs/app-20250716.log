@@ -1,0 +1,13 @@
+{"L":"FATAL","timestamp":"2025-07-16T13:42:34.098+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T13:47:02.851+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T13:47:15.750+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T13:52:55.676+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T13:58:31.075+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T13:58:57.260+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T13:59:52.847+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T14:03:24.734+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T14:03:52.610+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T14:10:19.107+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: got 2 parameters but the statement requires 1"}
+{"L":"FATAL","timestamp":"2025-07-16T14:25:02.764+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: could not create unique index \"idx_users_email\""}
+{"L":"FATAL","timestamp":"2025-07-16T14:40:49.185+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: could not create unique index \"idx_users_email\""}
+{"L":"FATAL","timestamp":"2025-07-16T21:12:33.614+0700","C":"go-42/main.go:38","M":"failed to run migrations","error":"pq: could not create unique index \"idx_users_email\""}

@@ -1,0 +1,1 @@
+{"L":"FATAL","timestamp":"2025-07-14T19:31:56.724+0700","C":"go-42/main.go:33","M":"can't connect to database ","error":"pq: invalid value for parameter \"TimeZone\": \"\""}
